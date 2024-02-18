@@ -1,0 +1,19 @@
+{
+    "version": "1.0",
+    "manifest_version": 3,
+    "name": "Path Track",
+    "description": "Tracking all applications in one place",
+    "icons": {
+      "16": "/images/shooting-star (16).png",
+      "48": "/images/shooting-star (48).png",
+      "128": "/images/shooting-star (128).png"
+    },
+    "page_action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "/images/star (16).png",
+        "48": "/images/star (48).png",
+        "128": "/images/star (128).png"
+      }
+    }
+}
